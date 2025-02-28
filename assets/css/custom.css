@@ -10,20 +10,20 @@ body {
 background-image: url(https://github.com/Melono4/melainedesnos/blob/main/images/hammond1.jpeg);
 }
 
-a {
+#a {
 color: #e2af78;
 }
 
-h1 {
+#h1 {
 color: #d87c4bff;
 }
 
-h2 {
+#h2 {
 color: #d87c4bff;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
-h3 {
+#h3 {
 color: #e2af78;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
