@@ -7,23 +7,23 @@ background: linear-gradient(180deg, rgba(72,29,7,0.8) 0%, rgba(72,29,7,0.57) 100
 }
 
 body {
-background-image: url("https://github.com/melono4/melainedesnos/blob/main/images/hammond1.jpg");
+background-image: url(https://github.com/melono4/melainedesnos/blob/main/images/hammond1.jpg);
 }
 
 #a {
 color: #e2af78;
 }
 
-#h1 {
+h1 {
 color: #d87c4bff;
 }
 
-#h2 {
+h2 {
 color: #d87c4bff;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
-#h3 {
+h3 {
 color: #e2af78;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
