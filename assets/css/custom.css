@@ -7,8 +7,7 @@ background: linear-gradient(180deg, rgba(72,29,7,0.8) 0%, rgba(72,29,7,0.57) 100
 }
 
 body {
-background-color: #cccccc;
-background-image url(https://github.com/melono4/melainedesnos/blob/main/images/hammond1.jpg);
+background: red url(hammond1.jpg) 10px 10px repeat-x fixed;
 }
 
 a {
