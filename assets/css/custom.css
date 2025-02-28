@@ -2,8 +2,8 @@
     --couleur-primaire : #53606C;
 }
 
-header, {
- background: linear-gradient(180deg, rgba(109,19,185,1) 0%, rgba(3,70,215,1) 100%); 
+header {
+background: linear-gradient(180deg, rgba(109,19,185,1) 0%, rgba(3,70,215,1) 100%); 
 }
 
 body {
