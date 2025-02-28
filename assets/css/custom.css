@@ -7,7 +7,7 @@ background: linear-gradient(180deg, rgba(72,29,7,0.8) 0%, rgba(72,29,7,0.57) 100
 }
 
 body {
-background-image: url(../../images/hammond1.jpg);
+background-image: url("../../images/hammond1.jpg");
 }
 
 a {
