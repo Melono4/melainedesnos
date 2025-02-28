@@ -3,7 +3,6 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Pour me contacter : [desnos.m@proton.me](mailto:desnos.m@proton.me)
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+                   06 99 06 09 62 
