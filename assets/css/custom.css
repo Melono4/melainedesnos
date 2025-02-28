@@ -28,6 +28,11 @@ color: #e2af78;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
+p {
+color: #ffffff;
+font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+}
+
 table, td, th {
   border: 1px solid #e2af78;
 }
