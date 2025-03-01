@@ -5,4 +5,4 @@ in_menu: true
 ---
 ![Photo du visage]({% link images/mel3.png %}) 
 
-<a href="Bio.html" class="bouton">Bio</a> 
+<a href="bio.html" class="bouton">Bio</a> 
