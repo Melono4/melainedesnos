@@ -7,4 +7,4 @@ in_menu: true
 2025:
 </div>
 
-**Mat Organic Trio** 
+**Mat Organic Trio :** 
