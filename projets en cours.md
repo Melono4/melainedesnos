@@ -1,7 +1,7 @@
 ---
 title: "Projets en cours"
 order: 3
-in_menu: true
+in_menu: false
 ---
 <h2>2025 :</h2>
 
