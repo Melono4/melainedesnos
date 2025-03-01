@@ -7,3 +7,5 @@ in_menu: true
 <p>Par téléphone : 06 99 06 09 62</p>
 <a>[desnos.m@proton.me](mailto:desnos.m@proton.me)</a> 
 </div> 
+
+ <a class="encart">[desnos.m@proton.me](mailto:desnos.m@proton.me)</a> 
