@@ -1,5 +1,6 @@
 ---
 title: "Bio"
 order: 1
-in_menu: false
+in_menu: true
 ---
+#Bio 
