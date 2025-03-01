@@ -10,4 +10,4 @@ in_menu: true
 <a href="bio.html" class="bouton">Bio</a>
 <a href="enseignement.html" class="bouton">Enseignement</a> 
 <a href="projets en cours.html" class="bouton">Projets</a>
-<a href="concerts a venir.html" class="bouton">Concerts</a> 
+<a href="concerts.html" class="bouton">Concerts</a> 
