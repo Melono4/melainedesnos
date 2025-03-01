@@ -7,7 +7,7 @@ background: linear-gradient(180deg, rgba(72,29,7,0.8) 0%, rgba(72,29,7,0.57) 100
 }
 
 body {
-background:  center/cover url("../../images/hammond1.jpg") #0000008A no-repeat;
+background:  center/cover url("../../images/hammond1.jpg") no-repeat;
 }
 
 a {
@@ -32,6 +32,12 @@ font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 p {
 color: #ffffff;
 background-color: #481D07A1;
+font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+}
+
+p1 {
+color: #ffffff;
+background-color: none;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
