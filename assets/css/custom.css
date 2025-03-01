@@ -1,5 +1,5 @@
 :root {
-    --couleur-primaire : linear-gradient(180deg, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 30%);
+    --couleur-primaire : linear-gradient(rgba(0,0,0,1) 30%);
 }
 
 header {
