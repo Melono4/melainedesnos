@@ -1,5 +1,5 @@
 :root {
-    --couleur-primaire : #53606C;
+    --couleur-primaire : linear-gradient(rgba(0,0,0,0) 30%);
 }
 
 header {
