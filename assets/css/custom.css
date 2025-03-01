@@ -16,7 +16,7 @@ background-color: transparent;
 }
 
 h1 {
-background-color: #481D07A1;
+background-color: transparent;
 color: #f13209;
 }
 
@@ -37,7 +37,7 @@ font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 
 p1 {
 color: #ffffff;
-background-color: none;
+background-color: #481D07A1;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
