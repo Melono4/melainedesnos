@@ -11,6 +11,11 @@ background:  center/cover url("../../images/hammond1-1.jpg") no-repeat;
 }
 
 a {
+color: #E2AF7857;
+background-color: transparent;
+}
+
+a1 {
 color: #ffffff;
 background-color: transparent;
 }
