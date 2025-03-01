@@ -12,6 +12,7 @@ background:  center/cover url("../../images/hammond1.jpg") no-repeat;
 
 a {
 color: #ffffff;
+background-color: none;
 }
 
 h1 {
