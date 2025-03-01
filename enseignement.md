@@ -1,6 +1,5 @@
 ---
 title: "Enseignement"
-order: 4
-in_menu: true
+order: 2
+in_menu: false
 ---
- 

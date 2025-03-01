@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 5
 in_menu: true
 ---
 Pour me contacter : [desnos.m@proton.me](mailto:desnos.m@proton.me)

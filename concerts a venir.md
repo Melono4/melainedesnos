@@ -1,6 +1,5 @@
 ---
 title: "Concerts à venir"
-order: 5
-in_menu: true
+order: 4
+in_menu: false
 ---
- 
