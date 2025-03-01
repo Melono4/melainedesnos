@@ -1,6 +1,5 @@
 ---
 title: "Projets en cours"
 order: 6
-in_menu: true
+in_menu: false
 ---
- 
