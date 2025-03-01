@@ -1,6 +1,10 @@
 ---
 title: "Concerts à venir"
 order: 4
-in_menu: false
+in_menu: true
 ---
-**2025:** 
+<div class=h2>
+2025:
+</div>
+
+**Mat Organic Trio** 
