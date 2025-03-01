@@ -41,6 +41,12 @@ background-color: #481D07A1;
 font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
 }
 
+p2 {
+color: #e2af78;
+background-color: #481D07A1;
+font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
+}
+
 table, td, th {
   border: 1px solid #e2af78;
 }
