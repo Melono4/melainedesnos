@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 order: 1
-in_menu: true
+in_menu: false
 ---
 ![Plusieurs photos de Mélaine en pêle-mêle]({% link images/Bio.png %})
 
