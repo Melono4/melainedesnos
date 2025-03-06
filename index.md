@@ -5,7 +5,7 @@ in_menu: true
 ---
 ![Photo du visage]({% link images/mel3.png %})
 
-<p1><i>pianiste, organiste, enseignant, et bien plus encore!</i></p1>
+<p1><i>pianiste, organiste, enseignant, de jazz et musiques actuelles</i></p1>
 
 <a href="bio.html" class="bouton">Bio</a>
 <a href="enseignement.html" class="bouton">Enseignement</a> 
