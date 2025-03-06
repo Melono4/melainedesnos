@@ -5,7 +5,7 @@ in_menu: true
 ---
 ![Photo du visage]({% link images/mel3.png %})
 
-<img src="mel.png" alt="Photo du visage" style="width:120px;height:120px;">
+<img src="images/mel.png" alt="Photo du visage" style="width:120px;height:120px;">
 
 <p1><i>pianiste, organiste, enseignant, de jazz et musiques actuelles</i></p1>
 
