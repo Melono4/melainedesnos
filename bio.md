@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 order: 1
-in_menu: true
+in_menu: false
 ---
 ![Pele-mele de Mélaine]({% link images/pelemele2.png %})
 
