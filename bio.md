@@ -3,6 +3,6 @@ title: "Bio"
 order: 1
 in_menu: true
 ---
-<img src="/images/mel.png" alt="Pele-mele de Melaine" style="width:120px;height:120px;">
+![Pele-mele de Mélaine]({% link images/pelemele2.png %})
 
 <a href="index.html" class="bouton">Accueil</a> 
