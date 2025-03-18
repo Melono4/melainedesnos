@@ -1,7 +1,7 @@
 ---
 title: "Concerts"
 order: 4
-in_menu: true
+in_menu: false
 ---
 <h2>2025 :</h2>
 
