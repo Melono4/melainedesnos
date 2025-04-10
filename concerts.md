@@ -7,6 +7,7 @@ in_menu: true
 
 <p1>23 février : "Virtual gig" avec l'inénarrable <b>Guillaume Facello</b>.</p1><br>
 <p1>14 mars à 21h : concert avec <b>Mathieu Cadot</b> (guitare) au restaurant le 7ème Art, 11 avenue Berthelot (Lyon).</p1>
+<br>
 <hr>
 <h2>À venir :</h2>
 
