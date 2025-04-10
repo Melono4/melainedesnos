@@ -1,7 +1,7 @@
 ---
 title: "MELAINE DESNOS"
 order: 0
-in_menu: true
+in_menu: false
 ---
 <img src="images/mel.png" alt="Photo du visage" style="width:120px;height:120px;">
 
